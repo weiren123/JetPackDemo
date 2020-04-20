@@ -6,6 +6,7 @@
 - 语言：JAVA
 
 一：创建工程==>Fragment + ViewModel
+[https://weiren123.github.io/JetPackDemo/pic/123.png](https://weiren123.github.io/JetPackDemo/pic/123.png)
 
 二：在res下面创建navigation文件夹
 
